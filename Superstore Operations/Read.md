@@ -4,11 +4,11 @@
 ## Abstract
 
 The project analysis of global superstore provides deep insight into it's operations, customer insights and predictive analytics using forecasting and K-means clustering. The suite provides hollistic view of data and provides insights into superstore business. The project addresses these questions :
-  Q1. Which regions provide max-profit and in which product category ?
-  Q2. Which manager is performing vs under-performing and finding why ?
-  Q3. Identifying which regions have highest return rate and for which category ?
-  Q4. What will be demand forecasted in coming Q4 2018 ?
-  Q5. Finding out customer persona causing profit leak.
+  - Q1. Which regions provide max-profit and in which product category ?
+  - Q2. Which manager is performing vs under-performing and finding why ?
+  - Q3. Identifying which regions have highest return rate and for which category ?
+  - Q4. What will be demand forecasted in coming Q4 2018 ?
+  - Q5. Finding out customer persona causing profit leak.
 
 ## Data cleaning and technical methodology
 <img width="1341" height="608" alt="Screenshot 2026-02-11 at 14 41 27" src="https://github.com/user-attachments/assets/4f1245f7-9fa6-450d-8bf5-3267c552dcb7" />
