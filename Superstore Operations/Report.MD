@@ -2,10 +2,12 @@
 *(Tools utilized = R, Excel, Tableau)*
 ## Executive Summary
 
+![Alt.text]
 
 
 ## Dataset Cleaning 
 
+![alt text](file:///Users/kunal/Desktop/Screenshot%202026-02-11%20at%2014.41.27.png)
 
 
 ### Library Used 
@@ -51,3 +53,5 @@
 1. As observed hot temperature has negative correlation with temperature, as season changes from mildly cold to hot number of sales decreases. One possible way to circumvent this drop in sales is by providing summer sales or summer clearence offers to drive sales in this period.
 2. For at risk category which has high CPI and low sales remedial steps such as price matching can be done to ensure sales stability. Whereas for struggling stores it can be said that on ground stores are struggling due to local competitor or store operational problems.
 3. Even if holiday periods are proven to be working as intended they are widely inconsistent, some stores are still struggling, an operational gap review can be done to address this issue.
+
+
